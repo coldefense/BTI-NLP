@@ -1,0 +1,295 @@
+index,sentence,label
+0,"The best characterized ligands for the AhR include halogenated aromatic hydrocarbons (HAHs), such as the polychlorinated dibenzo-p-dioxins, dibenzofurans, and biphenyls, and polycyclic aromatic hydrocarbons (PAHs). HAHs, such as 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD, dioxin) generally have the highest affinities for the AhR",1
+1," The IGFBPs bind IGF-I and IGF-II in the circulation to prolong their half-lives and modulate tissue access, thereby controlling IGF function.",1
+2,"Schutz et al. found a 4-12-fold and 100-fold increase in the kinetic off-rate and affinity for the binding of T cell receptor (TCR) and peptide major histocompatibility complex (pMHC),",1
+3,"For CB1 we also modeled the whole N-terminal part and we have simulated the entrance of two agonists, anandamide and Delta9-THC, into the structure of CB1. For the S1P1 receptor, the SMD simulations of ligand pulling were performed for two agonists of that receptor, sphingosine-1-phosphate (S1P) and fingolimod-(S)-phosphate ((S)-FTY720-P). For the LPA1 receptor, the similar SMD simulations were performed for lysophosphatidic acid, which is the endogenous agonist of that receptor.",1
+4,"build a structural model of the NPY-Y5 R complex guided by the experimental data... further show that the other two natural ligands of Y5 R, peptide YY (PYY) and pancreatic polypeptide (PP) dock to the receptor in a similar pose.",1
+5,"Here we describe a fast, high-throughput FP assay to quantify the binding of fluorescently labeled inositol 1,4,5-trisphosphate (IP3) to N-terminal fragments of the IP3 receptor",1
+6,"It is regulated by the TR native ligand triiodothyronine (T3), which displays anticooperative behavior to the RXR ligand 9-cis retinoic acid (9C).",1
+7,"From the simulations, both the agonist progesterone (P4) and the selective PR modulator (SPRM) asoprisnil induces agonistic-like helix 12 conformations (the ""closed"" states) in PR LBD",1
+8,"The most potent and selective ligands being 8c (ICI 118,551-Gly-Ala-BODIPY-FL-X; beta2AR pKD 7.48), 9c (ICI 118,551-betaAla-betaAla-BODIPY-FL-X; beta2AR pKD 7.48), 12a (ICI 118,551-PEG-BODIPY-X-630/650; beta2AR pKD 7.56), and 12b (ICI 118,551-PEG-BODIPY-FL; beta2AR pKD 7.42)",1
+9,"Functionalized gamma-butyrolactone and oxazolidinone-based ligands, in particular, are pharmacologically important scaffolds in drug discovery research and have been thoroughly examined for sigma2 receptor efficacy.",1
+10,Melatonin receptors (MT1 and MT2 in humans) are family A G protein-coupled receptors that respond to the neurohormone melatonin to regulate circadian rhythm and sleep.,1
+11,We combined supervised molecular dynamics (SuMD) and classic molecular dynamics (cMD) simulations to study the binding of the calcitonin gene-related peptide (CGRP) to the CGRP receptor (CGRPR).,1
+12,"Guided by crystal structures of our lead compound JH112 and the approved hypnotic drug suvorexant bound to OX1R and OX2R, respectively,",1
+13,"Galanin regulate its physiologic and pathologic functions by interacting with three G-protein coupled receptors; GalR1, GalR2 and GalR3.",1
+14,"Chemerin, a mediator of innate immunity, mainly acts on chemokine-like receptor 1 (CMKLR1) to induce the migration of macrophages and dendritic cells.",1
+15,we present the establishment of a homogeneous live cell-based BRET binding assay for the histamine H2 receptor with different fluorescently labeled squaramide-type compounds synthesized in the course of this study. Py-1-labeled ligand 8 (UR-KAT478) was found to be most suitable in BRET saturation binding experiments with respect to receptor affinity,1
+16,The kinetics of binding of tri-N-acetylglucosamine (NAG3) to hen egg-white lysozyme (HEWL) was investigated previously by several groups,1
+17,"eported values of the dissociation constants (KD) for the binding of galectin-3 to galactose-beta1,4-glucose (lactose), for example, range from 16 to 860 muM...reported KD of methyl-(Gal-beta1,4-Glc) (methyllactose) is 224 muM.",1
+18,"Here we report two near-atomic resolution cryo-EM structures of PAC1R activated by PACAP38 or maxadilan, providing structural insights into two distinct ligand binding modes.",1
+19,"Here we investigate the binding affinities of oxytocin (OT) and vasopressin (AVP) at the oxytocin receptor (OTR) and the vasopressin V1a receptor (V1aR), both of which are present in numerous in brain regions associated with social behavior.",1
+20,"Herein, we present a structural model for a channel pore and a d-fructose-binding site in BmGr9.",1
+21,"The aim of this study was to characterise interactions between the TRP cation channel subfamily melastatin member 4 (TRPM4) and endogenous intracellular modulators:calcium-binding proteins (calmodulin (CaM) and S100A1) and phosphatidylinositol 4, 5-bisphosphate (PIP2).",1
+22,"The chemokine CXCL8 (also known as interleukin-8, abbreviated IL-8) and its G-protein-coupled receptors CXCR1 and CXCR2 are crucial elements in this process, and also the development of many cancers.",1
+23,Here we describe an example of applying single-molecule dynamic force spectroscopy to study the binding of epidermal growth factor (EGF) to its receptor EGFR,1
+24,"The palm region in BMP-9 interacts with the type I receptor (ALK1, grey), the knuckle epitope interacts with the type II receptor (ActRIIB, orange).",1
+25,"In contrast to BMPs and activins, TGF-β 1-3 have a specific type II receptor, TGFBRII.",1
+26,"Inhibin A, like activin A, binds ActRIIA and ActRIIB.",1
+27,"BMP-3 is also considered to be an antagonistic ligand, as it has no known type I receptor but can compete with activin and BMP-4 for binding to ActRIIB",1
+28,"Lefty1 and lefty2 are unusual ligands in that they share a uniquely extended C-terminal sequence, and do not form covalent dimers as they lack the cysteine residue required for dimerization. Nevertheless, they competed with nodal for binding to ActRIIA and ActRIIB and inhibited Nodal signaling",1
+29,"Two examples are GDF-11 and GDF-8 (myostatin), which activate SMAD2/3 via the type I receptors ALK4, ALK5, or ALK7",1
+30,"For example, activin A activates the SMAD2/3 branch via the type I receptor ALK4. However, activin A may also form an inhibitory NSC with ALK2, as it inhibited BMP-6 and BMP-7 signaling in cells where ALK2 is the main type I receptor",1
+31,Tumor necrosis factor (TNF) receptor associated factor-2 (TRAF2) has been originally identified as a protein interacting with TNF receptor 2 (TNFR2) but also binds to several other receptors of the TNF receptor superfamily (TNFRSF).,1
+32,"While activated TNFR2 directly binds TRAF2 and TRAF1, cIAP1 and cIAP2 are indirectly recruited to TNFR2 by help of TRAF2.",1
+33,In RNA virus-infected cells cytosolic double-stranded (ds) RNA is recognized by RIG1 and/or the RIG1-like receptor (RLR) melanoma differentiation-associated 5 (MDA5),1
+34,"The RLR filaments in turn bind to mitochondria antiviral signaling protein (MAVS; also named VISA, IPS-1, or Cardif) and nucleate the formation MAVS filaments",1
+35,TRAF2 and TRAF5 on the one side and TRAF3 and TRAF6 on the other side bind to different binding motifs in MAVS,1
+36,"In contrast to receptors of the TNFRSF, RIG1 and MDA5 not only stimulate the activation of NFκB transcription factors by help of the TRAF proteins but also engage IRF3 and IRF7.",1
+37,"It is worth mentioning that the RLR LGP2 associates with the C-terminus of TRAF2, TRAF3, TRAF5, and TRAF6 and acts as a pan-inhibitor of stimuli using these TRAF proteins for activation of the classical NFκB pathway",1
+38,Many of the triggers of apoptotic JNK signaling engage the JNK pathway by TRAF2-dependent activation of the MAP3K apoptosis signal-regulating kinase 1 (ASK1). The latter is kept inactive in cells by binding to thioredoxin (Trx).,1
+39,"ROS formation, e.g., in response to TNF, results in dissociation of the ASK1-Trx complex giving TRAF2 access to ASK1.",1
+40,"Worth mentioning, TRAF2 has also been found to bind and stimulate the mammalian ste20-like kinase 1 (MST1)",1
+41,"Bcl-2 and Bcl-xL attenuate autophagy by binding and inhibition of Beclin-1, thereby hindering the latter to stimulate the ULK1 complex, which promotes autophagosome initiating vesicle nucleation.",1
+42,"Similarly, the anti-inflammatory triterpene celastrol binds to Nur77, resulting in enhanced TRAF2-Nur77 interaction and eventually mitophagy",1
+43,"More important, TRAF2 binds and stabilizes the β-catenin-TNIK-TCF4 complex thereby crucially contributing to TCF4 activation",1
+44,Jia et al. reported recently that TRAF2 binds LRPPRC to ubiquitinate argininosuccinate synthase 1 marking this enzyme for degradation resulting in reduced arginine synthesis,1
+45,"The first structure of GPCR bound to a diffusible ligand was β2AR, which was crystallized bound to a high-affinity inverse agonist, carazolol, in lipid bicelles bound to a Fab fragment and in lipidic cubic phase as a chimeric protein in which T4 lysozyme (T4L) replaced most of ICL3",1
+46,Similar results were found for activated opsin bound to the C-terminal peptide of the transducin α subunit and the A2aR–mini-Gsα complex,1
+47,"Binding of TNFα to the 75 kDa TNFR-2 is not sufﬁcient to attain cytotoxicity (Thoma et al., 1990),but rather binding to the 55 kDa TNFR-1 is sufﬁcient to attain TNFα mediated cell killing (Van Ostade et al.,1993).",1
+48,"Decoy receptors (DcR1, DcR2, and DcR3) sequester Trail (DcR1 and DCR2) and Fas (DcR3) ligands, thereby preventing apoptosis (Ashkenazi and Dixit,1999).",1
+49,"The differences were par-ticularly marked for CD40L, which binds to CD40 and does not bind to TNFR-1 or TNFR-2.",1
+50,Model complexes of TNFα with receptors TNFR-1 and TNFR-2 suggest that Arg31 of TNFα forms an ionic interaction with a Glu residue in both receptors.,1
+51,The complex between TNFβ and the extracellulardomain of TNFR-1 was the ﬁrst view of the receptor,1
+52,Most recently the structure of extracellular fragment of DR5 (residues 58 –184 or 1–130) complexed with its TRAIL/Ap02L ligand (residues 91–281 or 114 –281) emerged from two different groups,1
+53,RAF2 (TNFR associated factor 2) binds to the cytoplasmic domain of TNF receptors such as TNFR-1 and CD40 and mediates signal transduction,1
+54,"RANK is the sole sig-nalling receptor for the ligand RANKL (also known asTRANCE/ODF) and its activation is important for dif-ferentiation and activation of osteoclasts, which arenecessary for bone resorption and remodelling",1
+55,"Predicted tertiary and quaternary structures of a chimeric TNF inhibitor molecule generated by linking the extracellular domainof TNFR-1 to domains CH2, CH3, and CH4 of an IgG Heavy Chain.",1
+56,"The enzyme hexokinase binds glucose and ATP so as to catalyze a reaction between them, actin molecules bind to each other to assemble into actin filaments",1
+57,"When both α subunits bind acetylcholine, the channel undergoes a conformational change that opens the gate by an outward rotation.",1
+58,"Resident ER membrane proteins, for example, contain signals that bind directly to COPI coats ...Most membrane proteins that function at the interface between the ER and Golgi apparatus, including v- and t-SNAREs and some cargo receptors, use this retrieval pathway",1
+59,Soluble ER resident proteins must bind to specialized receptor proteins such as the KDEL receptor,1
+60,"the LDL receptor diffuses until an endocytosis signal in its cytoplasmic tail binds the adaptor protein AP2 after AP2’s conformation has been locally unlocked by binding to PI(4,5)P2 on the plasma membrane.",1
+61,Cell-surface transferrin receptors deliver transferrin with its bound iron to early endosomes by receptor-mediated endocytosis.,1
+62,IRS1 binds to specific phosphorylated tyrosines on the activated receptor and is then phosphorylated at multiple sites,1
+63,Nerve growth factor (NGF) to bind to its specific RTK (called TrkA) at the end of a long nerve cell axon and signal to the cell body of the same cell a long distance away.,1
+64,"The PI 3-kinase produces PI(3,4,5)P3, which serves as a docking site for two serine/threonine kinases with PH domains—Akt and the phosphoinositide-dependent kinase PDK1—and brings them into proximity at the plasma membrane.",1
+65,"Activated TGFβ/activin receptors phosphorylate Smad2 or Smad3, while activated BMP receptors phosphorylate Smad1, Smad5, or Smad8. Once one of these receptor-activated Smads (R-Smads) has been phosphorylated, it binds to Smad4 (called a co-Smad), which can form a complex with any of the five R-Smads",1
+66,"Hedgehog signaling begins at a cell-surface receptor called Patched, which employs a convoluted mechanism to activate a group of transcription regulators called Gli proteins",1
+67,Activation of the Fas receptor on the surface of a target cell by Fas ligand on the surface of a killer (cytotoxic) lymphocyte,1
+68,"the integrin-linked kinase (ILK) and its binding partners pinch and parvin, which together form a trimeric complex that serves as an organizing hub at many junctions.",1
+69,"Cell–matrix junctions also employ several actin-binding proteins, such as vinculin, zyxin, VASP, and a-actinin, to promote the assembly and organization of actin filaments. ",1
+70,"Notch is a transmembrane receptor protein (and latent transcription regulator) involved in many cell-fate choices in animal development, for example in the specification of nerve cells from ectodermal epithelium. Its ligands are cell-surface proteins such as Delta and Serrate.",1
+71,"Many types of migrating cells are guided by chemotaxis that depends on a G-protein-coupled receptor, called CXCR4, which is activated by an extracellular ligand, CXCL12.",1
+72,"An important example is HIV, which requires two types of receptors to enter a host cell. Its primary receptor is CD4, a cell-surface protein on helper T cells and macrophages... It also requires a co-receptor, which is either CCR5 (a receptor for β-chemokines) or CXCR4 (a receptor for α-chemokines), depending on the particular variant of the virus.",1
+73,"The natural ligand for the chemokine receptors (Sdf1 for CXCR4; RANTES, MIP-1α, or MIP-1β for CCR5) blocks co-receptor function and prevents viral invasion.",1
+74,"A human makes at least 10 different TLRs, each recognizing distinct ligands: TLR3, for example, recognizes double-stranded viral RNA in the endosomal lumen; TLR4 recognizes lipopolysaccharide (LPS) on the outer membrane of Gram-negative bacteria; TLR5 recognizes the protein that forms the bacterial flagellum; TLR7 and TLR8 recognize single- stranded viral RNA; and TLR9 recognizes short, unmethylated sequences of bacterial, viral, or protozoan DNA, called CpG motifs, which are uncommon in vertebrate DNA.",1
+75,"For a naïve T cell, an activated dendritic cell provides the co-stimulatory signals; these include the transmembrane B7 proteins, which are recognized by the co-receptor protein CD28 on the surface of the T cell.",1
+76,"For a B cell, an effector TFH cell provides the co-stimulatory signals; these include the transmembrane CD40 ligand, which binds to CD40 receptors on the B cell",1
+77,"PD1 is expressed on activated T cells, and its prolonged binding to its cell-surface ligand (PDL1 or PDL2) on various cell types, including cancer cells, inhibits the activity of the T cells.",1
+78,"The structure of the β2-adrenergic receptor, a receptor for the neurotransmitter epinephrine, illustrates the typical cylindrical arrangement of the seven transmembrane helices in a GPCR.",1
+79,"When ephrin binding acti- vates the Eph receptor, the receptor activates a cytoplasmic tyrosine kinase that phosphorylates ephexin on a tyrosine, enhancing the ability of ephexin to activate the Rho protein RhoA.",1
+80,the bacterial activator protein CAP has to bind cyclic AMP (cAMP) before it can bind to DNA,1
+81,The binding of cAMP to the regulatory subunits of the PKA tetramer induces a conformational change,1
+82,"The Rev protein interacts with a nuclear export receptor (Crm1), which directs the movement of viral RNAs through nuclear pores into the cytosol despite the presence of intron sequences.",1
+83,the ganglioside GM1 acts as a cell-surface receptor for the bacterial toxin that causes the debilitating diarrhea of cholera. Cholera toxin binds to and enters only those cells that have GM1 on their surface,1
+84,"strychnine, for example, binds to glycine receptors and prevents their inhibitory action",1
+85,"When a signal sequence binds, SRP exposes a binding site for an SRP recep­tor, which is a transmembrane protein complex in the rough ER membrane.",1
+86,Two proteins at the ER membrane called Get1 and Get2 serve not only as the receptor for Get3,1
+87,"Each AP2 complex binds four PI(4,5)P2 molecules",1
+88,a specific Sar1 GEF embedded in the ER membrane binds to cytosolic Sar1,1
+89,"Transmembrane M6P receptor proteins, which are present in the TGN, recognize the M6P groups and bind to the lysosomal hydrolases on the lumenal side of the membrane and to adaptor proteins in assembling clathrin coats on the cytosolic side.",1
+90,"Inositol 1,4,5-trisphosphate (IP3) diffuses through the cytosol and releases Ca2+ from the ER by binding to and opening IP3-gated Ca2+-release channels (IP3 receptors) in the ER membrane",1
+91,"Calmodulin functions as a multi- purpose intracellular Ca2+ receptor, governing many Ca2+-regulated processes.",1
+92,"In some target cells, including smooth muscle cells, NO binds reversibly to iron in the active site of guanylyl cyclase, stimulating synthesis of cyclic GMP",1
+93,"Frizzled contains an extracellular domain that binds with high affinity to Wnt, due in part to a hydrophobic pocket on the receptor domain that interacts with the lipid modification on Wnt; this lipid is therefore required for Wnt signaling. LRP interacts with a different site on Wnt.",1
+94,"The laminin molecules that generate the initial sheet structure first join to each other while bound to receptors on the surface of the cells. The cell-surface receptors are primarily members of the integrin family, but another important type of laminin receptor is dystroglycan, a highly glycosylated transmembrane protein.",1
+95,α5β1 is a fibronectin receptor and α6β1 is a laminin receptor on many types of cells,1
+96,"Toll and Torso are receptor proteins that are distributed all over the membrane but are activated only at the sites indicated by the coloring, through localized exposure to the extracellular ligands Spaetzle (the ligand for Toll) and Trunk (the ligand for Torso).",1
+97,"The second transgene, CreERT2 (brown), encodes a chimeric form of the Cre recombinase called CreERT, which consists of the Cre recombinase linked to the estrogen receptor protein; this enzyme becomes active as a recombinase only when it binds the artificial estrogen analog tamoxifen",1
+98,"an envelope protein of herpes simplex virus, for example, binds to heparan sulfate proteoglycans on the surface of certain vertebrate host cells, and simian virus 40 (SV40) binds to a glycolipid.",1
+99,The IgE tail region binds to another class of Fc receptors on the surface of mast cells in tissues and of basophils in the blood,1
+100,"A monoclonal antibody called trastuzumab (trade name Herceptin), which binds to Her2 and inhibits its function, slows the growth of human breast cancers that overexpress Her2",1
+101,"the lymphocytes stop rolling, and they crawl out of the blood vessel into the lymph node by using yet another cell adhesion protein called CD31",1
+102,ATP is synthesized by coupling a reaction that is highly energetically favorable to an energetically unfavorable phosphorylation reaction in which a phosphate group is added to ADP (adenosine diphosphate),2
+103,"Hexokinase catalyzes a phosphorylation reaction (an event) that converts glucose to glucose-6-phosphate, which is one of the reactions in a glycolysis pathway;",2
+104,"The amino acid side chains of the four histones in the nucleosome core are subjected to a remarkable variety of covalent modifications, including the acetylation of lysines, the mono-, di-, and trimethylation of lysines, and the phosphorylation of serines",2
+105,Much of the decrease in translation is caused by the phosphorylation of the translation initiation factor eIF2 by specific protein kinases that respond to the changes in conditions.,2
+106,"This leads to phosphorylation of tyrosine side chains on the cytosolic part of the receptor, creating phosphotyrosine docking sites for various intracellular signaling proteins that relay the signal",2
+107,"Activated TGFβ/activin receptors phosphorylate Smad2 or Smad3, while activated BMP receptors phosphorylate Smad1, Smad5, or Smad8.",2
+108,"Phosphorylation of stathmin inhibits its binding to tubulin, and signals that cause stathmin phosphorylation can increase the rate of microtubule elongation and suppress dynamic instability.",2
+109,"The cell lysate is then separated by SDS-PAGE gel, and phosphorylation of p38 is detected by Western blotting",2
+110,"In addition, we present the techniques used to determine the effect these mutations have on activity of the Ras/MAPK pathway through Western blot analysis of the phosphorylation of endogenous ERK1/2,",2
+111,Phosphorylation of both the threonine and tyrosine within this signature sequence is required for MAPK activation,2
+112,"Fructose 2,6-bisphosphate is formed by phosphorylation of fructose-6-phosphate by phosphofructokinase-2.",2
+113,D-Glyceraldehyde enters glycolysis via phosphorylation to glyceraldehyde-3-phosphate catalyzed by triokinase.,2
+114,"Galactokinase catalyzes the phosphorylation of galactose, using ATP as phosphate donor (Figure 20–6). Galactose-1-phosphate reacts with UDPGlc to form uridine diphosphate galactose (UDPGal) and glucose-1-phosphate, in a reaction catalyzed by galactose-1-phosphate uridyl transferase.",2
+115,Phosphorylation of carbamate by the second ATP then forms carbamoyl phosphate.,2
+116,"Similarly, deoxycytidine kinase (EC 2.7.1.24 phosphorylates deoxycytidine and 2′- deoxyguanosine, forming dCMP and dGMP, respectively",2
+117,"Insulin and mitogenic growth polypeptides, or growth factors (eg, IGF-1, PDGF, interleukin-2, and angiotensin II) activate the PI3 kinase/AKT kinase signaling pathways, which activate the mTOR kinase, and results in the phosphorylation of 4E-BP. Phosphorylated 4E-BP dissociates from 4E, and the latter is then able to form the 4F complex and bind to the mRNA cap.",2
+118,"Optimal induction of NF-kB target genes also requires phosphorylation of NF-kB proteins, such as p65, within their transactivation domain by a variety of kinases in response to distinct stimuli.",2
+119,The ankyrin-containing and inhibitory molecule p105 is also subjected to TNFa and IKK-mediated phosphorylation on Ser927 and Ser932,2
+120,"In addition, glycogen synthase kinase 3b (GSK3b) phosphorylates p105 on Ser903 and Ser907 and stabilizes p105 by preventing its degradation in unstimulated cells",2
+121,"After stimulus-induced IkBa-degradation, activated PKA phosphorylates p65 on Ser276",2
+122,"Ser276 of p65 is also phosphorylated by the mitogen- and stress-activated protein kinase-1 (MSK1) in the nucleus, and this phosphorylation is required for an optimal TNFa-mediated NF-kB activation",2
+123,Ser311 is another residue within the N-terminal Rel homology domain (RHD) domain that is targeted for phosphorylation by another kinase – protein kinase C (PKC)-z – in TNFa-stimulated cells,2
+124,IL-1b stimulation also triggers p65 phosphorylation within minutes in the cytoplasm and CK2 activity associated with this NF-kB protein has been reported and This cytoplasmic CKII activity is also associated with p65 upon TNFa stimulation and targets Ser529 of this substrate,2
+125,"Phosphorylation of RelB at Thr84 and Ser552 in cells stimulated by 12-O-tetradecanoylphorbol 13-acetate and ionomycin triggers degradation of RelB via the proteasome pathway but, again, the identity of the kinase that phosphorylates RelB at these residues is unknown at present",2
+126,"Indeed, PKA-mediated phosphorylation at Ser337, which is located within the Rel homology domain, enhances the p50 DNA-binding abilities",2
+127,ERK1/2 primarily phosphorylates c-Fos for inflammatory cytokine production,2
+128,c-Jun is primarily phosphorylated by JNK which also promotes the nuclear translocation of ATF4 to form heterodimers with c-Jun for AP-1 activation,2
+129,"p38 phosphorylates members of the myocyte-enhancer factor 2 (MEF2) family of transcription factors, MEF2A and MEF2C, downstream of activated TLRs to control anti-inflammatory IL-10 production [49] as well as stimulating expression of c-Jun, thereby influencing AP-1-mediated cytokine expression",2
+130,"ERK2-mediated phosphorylation of PARP1 has been shown to control NF-κB transcriptional activation in response to TNF stimulation, indicating how ERK1/2 can play a role in NF-κB regulation in response to other inflammatory mediators.",2
+131,"After liberation from p105, TPL2 directly phosphorylates MEK and thereby activates downstream ERK MAPK signalling",2
+132,"This is initiated by phosphorylation of CARMA1 by activated PKCθ, which is required for its oligomerization and association with BCL10",2
+133,mTORC2 phosphorylates AKT at S473 and PKCθ at S660/676 to induce Th1 and Th2 differentiation respectively,2
+134,"IL-2-inducible T cell kinase (ITK) is also associated with PIP3, and this kinase is important for phosphorylation and activation of PLCγ1.",2
+135,"Upon TCR stimulation, SLP-76 gets phosphorylated by ZAP-70 at its multiple tyrosine residues, which serve as binding sites for various SH2 domain-containing proteins.",2
+136,"Within the TNFR1 signaling complex I, the kinase TAK1 phosphorylates and activates IKK",2
+137,"protein kinase RNA-like ER kinase (PERK), which reduces general protein synthesis by phosphorylation of eukaryotic initiation factor 2alpha (eIF2α) but also promotes enhanced translation of selected mRNAs including that encoding the transcription factor ATF4",2
+138,"Neither has intrinsic kinase activity or is known to be phosphotylated by a membrane bound or cytoplasmic kinases, but recently murine TNFR-1 has been shown to be preferentially phosphorylated by mitogen activated protein kinase (MAPK) on Thr-236 and Ser-270  and humanTNFR-1 to be phosphorylated on Tyr-331",2
+139,"At the membrane, Akt/PKB is phosphorylated on two key residues: Thr308 (T308) of the activation loop by PDK1 and Ser473 (S473) in the hydrophobic motif of the C-terminal tail by a kinase whose identity has been elusive",2
+140,"Moreover, FAK phosphorylation is reduced in unloaded human skeletal muscle suggesting that it is a reasonable candidate for sensing mechanical loads",2
+141,Akt phosphorylation was increased by 1.5-fold above rest immediately and 4 h after acute exercise in both the endurance and resistance modes,2
+142,Acute exercise before training in both modes of exercise increased p70S6K phosphorylation above resting values immediately after exercise,2
+143,rpS6 phosphorylation was significantly increased by 1.8-fold 4 h after acute resistance exercise before training,2
+144,"In the untrained state, eIF4E phosphorylation did not change immediately after acute exercise in either mode",2
+145,"AMPK phosphorylation increased by 6-fold immediately after acute exercise of both modes in both the untrained and trained states, but returned to baseline values by 4 h after exercise",2
+146,After both modes of training resting FAK phosphorylation was significantly greater than before training,2
+147,"In the absence of a Wnt signal, GSK3 is active and phosphorylates Axin, and b-catenin.",2
+148,"Phosphorylation of a unique 572 amino acid sequence within the N2-B domain (N2-Bus) by cAMPdependent protein kinase (PK)A lowers passive stiffness in rat, bovine, and human myocardium via yet unknown mech anisms",2
+149,"We wanted to know whether cGMP-activated PKG can phosphorylate titin in mammalian, particularly human, heart and whether this posttranslational modification can improve diastolic function by reducing titin-based stiffness.",2
+150,"membrane binding of newly-synthesized PKC, binding of sphingosine to Rac-bound PAK, phosphorylation of p70S6 kinase and p90RSK by MAPK (and possibly other pathways), and binding of Rho to PRK.",2
+151,"Interestingly, the hydrophobic motif of PKB/Akt has a very low affinity for PDK-1, and mounting evidence suggests that mechanisms other than docking to the hydrophobic site may determine the phosphorylation of PKB/Akt by PDK-1",2
+152,"Furthermore, AMPK phosphorylates PGC1a directly both in vitro and in cells.",2
+153,These direct phosphorylations of the PGC1a protein at threonine-177 and serine-538 are required for the PGC1a dependent induction of the PGC1a promoter,2
+154,"fatty acid oxidation is acutely increased by phosphorylation of acetyl-CoA-carboxylase-2 (ACC-2) leading to a decrease in malonyl-CoA, an inhibitor of carnitine Opalmitoyltransferase-1.",2
+155,The ability of CDC2 to phosphorylate Bcl-2 was confirmed by in vitro kinase assay with a highly purified CDC2-cyclin B complex.,2
+156,"To convincingly demonstrate that Bcl-2 is phosphorylated by CDC2, we carried out in vitro kinase assays using a highly purified CDC2-cyclin B complex. This complex efficiently phosphorylated histone H1, a specific substrate of CDC2 (27), in a dose-dependent manner, confirming that its activity is maintained in vitro",2
+157,"LPS-induced SQSTM1 secretion requires SQSTM1 phosphorylation at Ser403, and this process is positively regulated by STING1/STING/TMEM173 (stimulator of interferon response cGAMP interactor 1)-dependent TBK1 (TANK binding kinase 1) activation.",2
+158,"rSQSTM1-mediated phosphorylation of INSR causes subsequent phosphorylation of PLCG1 (phospholipase C gamma 1) and PTK2B/PYK2 (protein tyrosine kinase 2 beta), leading to the phosphorylation of RELA/p65 (RELA proto-oncogene, NF-kB subunit) during NFKB activation.",2
+159,"Activated TBK1, in turn, phosphorylates STING at Ser366 (unless otherwise indicated, we refer to the human protein sequence) in the CTT, which is part of a pLxIS motif (in which p represents the hydrophilic residue, x represents any residue and S represents the phosphorylation site) and which allows the STING–TBK1 complex to recruit IRF3",2
+160,"TBK1 then phosphorylates IRF3, enabling its dimerization, nuclear translocation and target gene induction.",2
+161,"In the present report, we investigated the effect of curcumin on constitutively active and IL-6-inducible STAT3 phosphorylation in MM cells.",2
+162,"Our results show that IFN-alpha induced STAT1 phosphorylation, and curcumin suppressed the phosphorylation in a time-dependent manner",2
+163,Because IL-6 is a growth factor for MM and induces STAT3 phosphorylation,2
+164,"AG490 is considered to be an inhibitor of JAK2, a kinase that phosphorylates STAT3.",2
+165,"LLL12 specifically inhibited STAT3 phosphorylation, nuclear localization, DNA binding activity, down-regulated STAT3 downstream genes, and induced apoptosis in MM cells.",2
+166,"LLL12 also inhibited STAT3 phosphorylation induced by interleukin-6 (IL-6) and interferon-a but not STAT1, STAT2, STAT4 and STAT6 phosphorylation induced by interferon-a, interferon-c and IL-4 indicating the selectivity of LLL12 for STAT3.",2
+167,"STAT3 activation occurs through phosphorylation of the tyrosine 705 (Tyr705) residue, leading to dimerization and translocation from the cytoplasm to the nucleus.",2
+168,we demonstrate that TFAM is phosphorylated within its HMG box 1 (HMG1) by cAMP-dependent protein kinase in mitochondria,2
+169,The PKA inhibitors H89 or KT5720 blocked phosphorylation of overexpressed TFAM at serine 55,2
+170,The activity of PKAa was confirmed by its phosphorylation of histone deacetylase 8 (HDAC8) at serine 39,2
+171,human Ago2 is phosphorylated at serine-387 leading to altered cellular localization,2
+172,Our findings suggest that BRD4-driven Pol II phosphorylation at serine 2 plays an important role in regulating lineage- specific gene transcription in human CD4+ T cells.,2
+173,Phosphorylation of serine 5 (Ser-5) in the C-terminal domain of RNA polymerase II (Pol II)3 is associated with initiation,2
+174,"In response to postprandial increase in insulin, Akt phosphorylation of T308 and S473 correlated significantly with sites on TBC1D1 (T596) and TBC1D4 (S318, S341, S704).",2
+175,"Exercise induced phosphorylation of TBC1D1 (S237, T596) that correlated significantly with activity of the α2/β2/γ3 AMPK trimer, whereas TBC1D4 phosphorylation (S341, S704) with exercise correlated with activity of the α2/β2/γ1 AMPK trime",2
+176,Phosphorylation of AMPK on T172 is essential for its activation and S221 on ACC is a well-established AMPK target,2
+177,Full activation of Akt requires phosphorylation of T308 and S473,2
+178,"In the fasted state, phosphorylation of T308 did not increase significantly with exercise",2
+179,"In the fed state, on the other hand, T308 phosphorylation was significantly increased in both the rested and exercised leg.",2
+180,Phosphorylation of AMPK at T172 correlates well with total AMPK kinase activity in human skeletal muscle during whole body exercise,2
+181,"On the other hand, T596 phosphorylation was regulated by both exercise (70%) and physiological insulin (35%), and the two stimuli combined gave an additive response",2
+182,"In addition, S660 has been shown to be phosphorylated in response to exercise in human skeletal muscle",2
+183,Here we show that both S660 and S700 are phosphorylated exclusively by exercise and not by physiological insulin in human skeletal muscle,2
+184,Recent studies have suggested that the enzymatic activity of DNMT1 is possibly modulated by phosphorylation of serine/threonine residues located in the N-terminal domain of the enzyme,2
+185,Our data suggest that phosphorylation of DNMT1 at Ser154 by CDKs is important for enzymatic activity and protein stability of DNMT1,2
+186,"In the present work, we report that members of the cyclin-dependent kinase (CDK) family, including CDK1, 2 and 5, can phosphorylate human DNMT1 at Ser154.",2
+187,"After this key step, Dbf4-dependent kinase (DDK) and cyclin-dependent kinases (Cdks) phosphorylate MCM2–7, leading to the recruitment of Cdc45 and GINS (Go, Ichi, Ni, and San) to form the CMG (Cdc45–MCMs–GINS) replicative helicase complex",2
+188,"In general, Cdc7 phosphorylation of MCMs is essential for the initiation of DNA replication",2
+189,Cdk2/CycE phosphorylation of MCM3 Thr-722 promoted its chromatin loading,2
+190,it was found that both Cdk2/CycE and Cdk1/CycB phosphorylate MCM7 at Ser-121,2
+191,"Similarly, Cdk1/2-dependent phosphorylation of MCM4 at multiple sites decreases the binding of MCM complex to DNA, avoiding re-replication during mitosis",2
+192,"Interestingly, studies on the nuclear localization of chromatin-bound MCM4, phosphorylated at the Ser-3 and Ser-32 by Cdk2, showed that the nuclear localization was not generally colocalized with replicating DNA",2
+193,"It was suggested by Shi et al. that ATM phosphorylated human MCM3 C-terminal at Ser-728, in response to DNA damage.",2
+194,"Whereas ATR phosphorylated MCM2 at Ser-108 in response to multiple forms of DNA damage and stalling of replication forks including: IR, UV light, HU, and polyamides",2
+195,"MCM7 phosphorylation at Tyr-600 mediated by epidermal growth factor receptor (EGFR)-p56Lyn-axis promotes MCM complex assembly and chromatin loading, consequently enhancing DNA synthesis and cancer cell proliferation",2
+196,MCM3 was reported to be phosphorylated by death-associated protein kinase (DAPK) at Ser-160,2
+197,MCM4 was phosphorylated by Epstein–Barr virus-encoded protein kinase (EBV-PK) at Thr-19 and Thr-110,2
+198,"SIK1-dependent MCM2 phosphorylation, mediated by Sld5, is required for MCM helicase activity, but it does not affect the chromatin association of MCM2",2
+199,Here we show that c-Src phosphorylates human HNF4α on three tyrosines in an interdependent and isoform-specific fashion.,2
+200,We also show that the phosphorylation is influenced by the SH2 and SH3 domains of Src and by SNPs in HNF4α.,2
+201,"Phosphorylation of Nrf2 at Ser-40 through a PKCbased mechanism has been reported to play a critical role in the dissociation of Nrf2 from Keap1, an negative regulator of Nrf2",2
+202,"The C-terminus of ubiquitin is initially activated by being linked via a high-energy thioester bond to a cysteine side chain on the E1 protein. This reaction requires ATP, and it proceeds via a covalent AMP–ubiquitin intermediate.",3
+203,"The activated ubiquitin on E1, also known as the ubiquitin-activating enzyme, is then transferred to the cysteine on an E2 molecule.",3
+204,the activity of a ubiquitin ligase is turned on either by E3 phosphorylation or by an allosteric transition in an E3 protein caused by its binding to a specific small or large molecule.,3
+205,"For example, the anaphase-promoting complex/cyclosome (APC/C) is a multisubunit ubiquitin ligase that is activated by a cell-cycle-timed subunit addition at mitosis.",3
+206,"Not all proteins that bind to activated RTKs via SH2 domains help to relay the signal onward. Some act to decrease the signaling process, providing negative feedback. One example is the c-Cbl protein, which can dock on some activated receptors and catalyze their ubiquitylation, covalently adding one or more ubiqui- tin molecules to specific sites on the receptor.",3
+207,"Smad7 (and possibly Smad6) binds to the cytosolic tail of the activated receptor and inhibits its signaling ability in at least three ways: (1) it competes with R-Smads for binding sites on the receptor, decreasing R-Smad phosphorylation; (2) it recruits a ubiquitin ligase called Smurf, which ubiquitylates the receptor, leading to receptor internalization and degradation (it is because Smurfs also ubiquitylate and promote the degradation of Smads that they are called Smad ubiquitylation regulatory factors, or Smurfs); and (3) it recruits a protein phosphatase that dephosphorylates and inactivates the recep- tor. In addition, the inhibitory Smads bind to the co-Smad, Smad4, and inhibit it, either by preventing its binding to R-Smads or by promoting its ubiquitylation and degradation.",3
+208,"The complex contains at least four other proteins, including a protein kinase called casein kinase 1 (CK1), which phosphorylates the β-catenin on a serine, priming it for further phosphorylation by another protein kinase called glycogen synthase kinase 3 (GSK3). This final phosphorylation marks the protein for ubiquitylation and rapid degradation in proteasomes.",3
+209,"The binding of TNFα causes a rearrangement of the clustered cytosolic tails of the receptors, which now recruit various signaling proteins, resulting in the activation of a protein kinase that phosphorylates and activates IκB kinase kinase (IKK). IKK is a heterotrimer composed of two kinase subunits (IKKα and IKKβ) and a regulatory subunit called NEMO. IKKβ then phosphorylates IκB on two serines, which marks the protein for ubiquitylation and degradation in proteasomes.",3
+210,"active CTR1 stimulates the ubiquitylation and degradation in proteasomes of a nuclear transcription regulator called EIN3, which is required for the transcription of ethylene-responsive genes.",3
+211,"The auxin receptor proteins are located mainly in the nucleus. When activated by auxin binding, the receptor– auxin complex recruits a ubiquitin ligase, which ubiquitylates the Aux/IAA protein, marking it for degradation in proteasomes. ARF is now free to activate the transcription of auxin-responsive genes.",3
+212,"First, a protein called geminin is labeled with a green fluorescent protein. This protein is targeted for degradation by the APC/C, a ubiquitin ligase that is active from metaphase to the end of G1 (as discussed later). Thus, the green fluorescence of this protein is seen from early S phase to mid-mitosis. A second protein, called Cdt1, is tagged with a red fluorescent protein. This protein is targeted for ubiquitylation and destruction from late G1 to telophase of mitosis.",3
+213,"The APC/C catalyzes the ubiquitylation and destruction of two major proteins. The first is securin; its destruction in metaphase activates a protease that separates the sister-chromatid pairs and unleashes anaphase, as described later. The S- and M-cyclins are the second major targets of the APC/C.",3
+214,"The cell-cycle control system also employs another ubiquitin ligase called SCF (see Figure 3–67). Its major role in the cell cycle is to ubiquitylate certain CKI proteins in late G1, thereby helping to control the activation of S-Cdks and DNA replication",3
+215,"Like Cdh1, Sic1 is inhibited by M-Cdk, which phosphorylates Sic1 during mitosis and thereby promotes its ubiquitylation by SCF",3
+216,p27 suppresses G1/S-Cdk and S-Cdk activities in G1; helps cells withdraw from cell cycle when they terminally differentiate; phosphorylation by Cdk2 triggers its ubiquitylation by SCF,3
+217,"APC/C catalyzes ubiquitylation of regulatory proteins involved primarily in exit from mitosis, including securin and S-cyclins and M-cyclins; regulated by association with activating subunits Cdc20 or Cdh1",3
+218,"SCF employs various substrate-binding (F-box) subunits to catalyze ubiquitylation of regulatory proteins involved in G1 control, including some CKIs (Sic1 in budding yeast, p27 in mammals)",3
+219,"CRL4–Cdt2 catalyzes ubiquitylation of the replication regulator Cdt1 during S phase, thereby suppressing further loading of Mcm helicase at origin",3
+220,"Also, the association of Cdt1 with a protein at active replication forks stimulates Cdt1 ubiquitylation by a ubiquitin ligase called CRL4–Cdt2, leading to Cdt1 degradation.",3
+221,The activation of APC/C by Cdc20 leads to the ubiquitylation and destruction of securin,3
+222,Mdm2 normally binds to p53 and promotes its ubiquitylation and destruction in proteasomes.,3
+223,"Rad6 is known to direct mono-ubiquitination of histone H2B, which is involved in regulating gene transcription in the nucleus.",3
+224,The resulting K48-linked and K11-linked ubiquitin chains do not only represent a signal for degradation by the proteasome but are also recognized by the AAA+ ATPase Cdc48 and get in the process of retrotranslocation modified by enzymes bound to Cdc48.,3
+225,"Although Ubc7 is the main E2 enzyme that cooperates with the Hrd1 E3 ligase, the central component of the Hrd complex, Ubc6 interacts with another E3 ligase complex, the Doa10 complex.",3
+226,"In addition, detailed biochemical studies have shown that binding enhances the ubiquitination reaction by an allosteric mechanism. Ubc7 bound to the isolated U7BR showed strongly enhanced ubiquitination activity, independently of the presence of E3 ligases.",3
+227,In mammalian cells the ERAD E3 ligase gp78 contains in addition to the G2BR domain that binds to the E2 enzyme Ube2g2 also a CUE domain that recognizes the hydrophobic patch of ubiquitin similar to other CUE domains.,3
+228,In vitro experiments with poly-ubiquitinated Hrd1 suggested that in general Cdc48 acts before Otu1-mediated trimming of the ubiquitin chains occurs. These investigations also suggested that Ubx2 prevents premature de-ubiquitination before substrate extraction by competing with Otu1 for binding to Cdc48.,3
+229,"On the opposite side of the nucleosome, two tandem zinc fingers in AEBP2 contact the ubiquitin attached to the other H2A subunit in the complex through the Ile44 hydrophobic patch.",3
+230,"RYBP is a ubiquitin-binding protein: this interaction is mediated by its zinc-finger domain, which is similar in sequence to NZF zinc-fingers known to bind ubiquitin. Ubiquitin binding by RYBP is important for PRC2-independent PRC1 recruitment in the context of X-chromosome inactivation in female ES cells.",3
+231,"The structure also revealed roles for the nucleosome itself in positioning the H2AK15-linked ubiquitin. First, direct contacts were observed between ubiquitin and the H2B C-terminal alpha helix",3
+232,"For ubiquitination assay, we expect to detect the protein of IGF2BP1 ubiquitination increased by E3 ligase. As shown in Figure 2, FBXO45 enhanced IGF2BP1 polyubiquitination, while the K190A or K450A mutants significantly blocked this action.",3
+233,"A good example is polyubiquitination of RIPK1 by the TRAF2-cIAP1-Ubc13-UbcH5 complex, which modulates K63-linked ubiquitination of RIPK1 (see Figure 2 in the main text).",3
+234,"In the context of BCR activation, TRAF3 essentially functions as a bridge to transfer K48-linked ubiquitin chains to NF-kappaB-inducing kinase (NIK) via the ubiquitin ligase complex (TRAF2-TRAF6-cIAP1/2).",3
+235,"A20 negatively regulates NF-kappaB signaling by inhibiting E3 ligase or substrate activity (TRAF2, TRAF6, cIAP1, RIPK1, and MALT1)",3
+236,A20 functions to deubiquitinate K63-ubiquitin linkages conjugated to MALT1 of CBM-Ubc13-TRAF6 complex and impairs TCR-induced NF-kappaB signaling; A20 also undergoes proteasomal degradation to restore TCR/CD28-induced IKK activation.,3
+237,"OTUD7B is a DUB that deubiquitinates K63-assembled ubiquitin chains from GbetaL, a substrate for TRAF2 E3 ligase.",3
+238,"USP49, a ubiquitin-specific protease, interacts with and deubiquitinates STING after HSV-1 infection.",3
+239,The SARS-CoV-2 PLPro protein inhibits TLR-7 signaling by deubiquitinating K63 linkages from TRAF3 and TRAF6 in human promonocyte cells that were stably transfected.,3
+240,"The IAP family of proteins, including cIAP1, cIAP2, and XIAP, have E3 ubiquitin protein ligase activity. TRAF2 and TRAF6 form a complex with cIAP1/2 to conjugate K63-linked ubiquitin chains catalyzed by Ubc13, followed by NF-kappaB or MAPK activation in human immune cell activation via antigen and pattern recognition receptors (PRRs)",3
+241,K63-linked polyubiquitin chains (red ovals) and linear polyubiquitin chains (green ovals) catalyzed by Ubc13-Uev1a and UbcH5/linear ubiquitin chain assembly complex (LUBAC) are necessary for efficient activation of immune and antiviral cell signaling pathways.,3
+242,"The tumor necrosis factor receptor 1 (TNFR1)-induced non-canonical mechanism involves K48-ubiquitin chain-mediated degradation of TNF receptor-associated factor 3 (TRAF3) by cellular inhibitor of apoptosis proteins 1/2 (cIAP1/2), release of TRAF2/TRAF6 for K63 ubiquitination, and activation of non-canonical nuclear factor KappaB (NF-kappaB)/MAPK.",3
+243,"Recently, Ubc13 was also shown to associate with NLRP3, catalyze K63-linked ubiquitination of NLRP3 and activate the inflammasome",3
+244,NLRC5 undergoes K63 ubiquitination in the presence of TRAF2 or TRAF6 and ubiquitinated NLRC5 regulates the catalytic function of the IKK complex.,3
+245,"NLRX1 is another non-inflammasome NLR that binds to TRAF6 and when stimulated with LPS, undergoes K63-linked ubiquitination; ubiquitinated NLRX1 inhibits IKK and NF-kappaB activation, as shown in overexpressed 293Ts (Box 3).",3
+246,One of the components of LUBAC is the ubiquitin ligase HOIL-1 which has been shown to generate oxyester linkages on several proteins and on linear polysaccharides. We show that HOIL-1 activity requires linear tetra-Ub binding which enables HOIL-1 to mono-ubiquitylate linear Ub chains and polysaccharides.,3
+247,"It has been shown that HOIL-1L mono-ubiquitylates several immune signaling proteins such as MyD88 (Myeloid differentiation factor 88), the IL-1 receptor associated kinases IRAK1and IRAK2 by catalyzing formation of an ester bond between the hydroxy group of serine or threonine residues and the C-terminal glycine of Ub.",3
+248,"E3 ubiquitin ligases that can catalyze the ubiquitylation of Notch include Itch, Ligand of Numb-Protein X (LNX), Deltex (DTX), Mind bomb (Mib) 1, Mib2, Neuralized (Neur) 1, and Neur2.",3
+249,"However, Zhao Y et al. reported that Cbl-b, together with Stub1, regulates thymic-derived CD4+ CD25+ regulatory T cells (tTregs) development by targeting Foxp3 for ubiquitination and degradation in the proteasome",3
+250,Membrane-associated RING-CH1 (MARCH1) is an E3 ubiquitin ligase that regulates MHCII ubiquitination,3
+251,"Another E3 ligase, MARCH8, is responsible for MHC II ubiquitination specifically in thymic epithelial cells.",3
+252,"Cdt2 binds directly onto proliferating cell nuclear antigen (PCNA) loaded on DNA, which serves as a landing pad for the independent recruitment of the ubiquitin ligase and its substrates.",3
+253,"Moreover, it was shown that mK3 could facilitate ubiquitination of a single serine, threonine or lysine (but not cysteine) residue placed close to the C-terminus of the cytosolic tail of MHC-I HC, resulting in its efficient degradation.",3
+254,"These surprising findings were extended to show that, even in the context of the native sequence, serine residues were preferentially ubiquitinated over lysine residues in a reaction catalysed by the E2 Ube2j2, a tail-anchored ER membrane protein, which was shown to be the cognate E2 of mK3.",3
+255,"We also showed that during zebrafish development, the ribosome was ubiquitinated by Znf598, an E3 ubiquitin ligase that activates RQC. Ribosomal protein Rps10/eS10 was found to be a key ubiquitinated protein during development.",3
+256,"Upon stimulation with inflammatory cytokines such as TNF-alpha, LUBAC conjugates an M1-polyubiquitin chain onto NF-kappaB-essential modulator (NEMO), receptor-interacting Ser/Thr kinase 1 (RIPK1), and other proteins.",3
+257,"A much more recent line of evidence for DDR leading to this atypical ubiquitination stems from the research on HUWE1, an E3 ligase that generates the majority of cellular K6-linked species upon inhibition of the valosin-containing protein (VCP/p97/Cdc48).",3
+258,"E4B belongs to the U-box E3 ubiquitin ligase family and functions as either an E3 or an E4 enzyme in protein ubiquitination. Lu et al. studied the differential degradation of TRA2A and PYCR2 by E3 ubiquitin ligase E4B. In their study, they validated the ubiquitination of TRA2A and PYCR2 by E4B in vitro and in mammalian cells. They found that E4B mediated the degradation by forming K11- and K48- linked polyubiquitin chains on TRA2A and PYCR2, respectively.",3
+259,Polyubiquitination of IRAK-1 and TRAF6 is induced by stimulation of interleukin-1 receptor (IL-1R) or of TLRs by pathogens.,3
+260,"For example, the UBE2E family of E2 enzymes directly ubiquitinate the substrate SETDB1 in a manner independent of ubiquitin ligase E3, and conjugated ubiquitin is protected from active deubiquitination.",3
+261,"Our results are consistent with a model in which BRD1732 is ubiquitinated by RNF19 proteins, and accumulation of the resulting ubiquitin-BRD1732 conjugate leads to competitive inhibition of the ubiquitin-proteasome system (Fig. 4F).",3
+262,"The N-terminal end of proteins can be also targeted for ubiquitination. The ubiquitin-conjugating enzyme, UBE2W catalyzes ubiquitination on the N-terminal end of UCHL1 and UCHL5, altering their DUB activity. There are also several other proteins such as FKBP1A, SURF4, DUT, GADD45A, TXNL1, EIFR3G, TAM1, STAM, and PAPOLA targeted for the N-terminal ubiquitination in which the role of ubiquitination and the responsible enzymes remain unclear.",3
+263,"Ubiquitination of LPS is catalyzed by the RING-type ubiquitin ligase RNF213/Mysterin (Fig. 3 B), a distinct E3 ligase linked to Moyamoya disease, a cerebrovascular disorder.",3
+264,"More recently, sugars (glycogen and maltoheptaose) were shown to be ubiquitinated by the RBR-type ubiquitin ligase HOIL-1 (Fig. 3 C). Sugar ubiquitination by HOIL-1 with the E2 UbcH7 has been confirmed in vitro.",3
+265,Rad6-Rad18 is the E2 ubiquitin-conjugating enzyme/E3 ubiquitin ligase that catalyzes the mono-ubiquitylation of PCNA.,3
+266,"Yeast Rad5 is a 134 kDa protein that has two functions. First, it is an E3 ubiquitin ligase that binds Ubc13-Mms2 and forms K63-linked poly-ubiquitin chains on mono-ubiquitylated PCNA.",3
+267,"A substantial amount of evidence suggests that the Rad18 protein, which is the E3 ubiquitin ligase responsible for PCNA mono-ubiquitylation, and the Rad5 protein, which is the E3 ubiquitin ligase responsible for PCNA poly-ubiquitylation, play a more direct role in orchestrating the events leading to DNA damage bypass than was originally thought.",3
+268,"IκBα ubiquitination occurs when IκBα is phosphorylated at Ser32/Ser36. Phosphorylation of Ser32/Ser36 allows certain ubiquitin E3 ligases to recognize IκBα. Ubiquitinated IκBα is then recognized by the proteasome complex, which leads to its degradation.",3
+269,"Depending on the linkage between ubiquitin molecules, these chains can encode distinct information. For example, chains linked through Lys48 of ubiquitin (K48-linked chains) are a targeting device for protein degradation by the 26S proteasome",3
+270,"Ubiquitin moieties are linked by an isopeptide bond between a Gly76 carboxyl group and either a Lys sidechain primary amino group (Lys6, Lys11, Lys27, Lys29, Lys33, Lys48, or Lys63) or the ubiquitin amino terminus (Met1)",3
+271,"The specific enzymes that catalyze modification by ubiquitin-like proteins are somewhat different from those involved in conjugation of ubiquitin, though they utilize a similar mechanism. Thus SUMO (Small Ubiquitin MOdifier), for example, is conjugated by a heterodimeric E1-Aos1/Uba2, and the E2-conjugating enzyme Ubc9.",3
+272,"IKK then phosphorylates IκBα to target IκBα for K48 polyubiquitination, which leads to the degradation of ubiquitinated IκBα by the proteasome, allowing the p50/RelA complex to enter the nucleus and activate target genes.",3
+273,"In the non-canonical pathway, under unstimulated conditions, NIK is persistently degraded by the proteasome due to K48 polyubiquitination by cIAP1/2 because the TRAF2/TRAF3 heterodimer acts as a molecular bridge between NIK and cIAP1/2.",3
+274,"We focused on the E3 activity of TRAF6 and found that, upon IL-1 stimulation, TAK1 undergoes K63-type polyubiquitination catalyzed by TRAF6 (E3) and Ubc13 (E2), which is required for TAK1 activation.",3
+275,"BRCA1 polyubiquitinates CSB and this polyubiquitination and subsequent degradation of CSB occur following UV irradiation, even in the absence of Cockayne syndrome A (CSA) protein.",3
+276,BRCA1 associates with RNA polymerase II (RNAPII)( 14 ) and mediates the ubiquitination of RNAPII following UV irradiation,3
+277,"Hypoxia inducible factor (HIF)-mediated response to hypoxic conditions is turned off by VHL-mediated ubiquitination of HIFα. To achieve this, VHL binds HIFα and recruits it to a specific E3 ubiquitin ligase complex, a Cullin-RING-ligase.",3
+278,The F-box protein Skp2 mediates c-Myc ubiquitylation by binding to the MB2 domain.,3
+279,"In this study, RagA was modified by polyubiquitination in an amino acid-sensitive manner. By screening a series of E3 ligases, RNF152, a lysosomal E3 ligase, was identified to mediate K63-linked polyubiquitination of RagA.",3
+280,"Moreover, SKP2, another E3 ligase, could mediate RagA polyubiquitination on lysine 15.",3
+281,"In addition to RNF152/SKP2, TRAF6, an E3 ligase, is also reported to regulate mTOR translocation to the lysosome in response to amino acid stimulation by catalyzing the K63 ubiquitination of mTOR in the form of the p62-TRAF6 heterodimer complex.",3
+282,"In this process, FBXW7 directly binds to mTOR and mediates its degradation by the proteasome (Fig. 2a)",3
+283,RNF168 plays a central role in the DNA damage response (DDR) by ubiquitylating histone H2A at K13 and K15.,3
+284,"Briefly, Rsp5 (NEDD4 in human cells) is responsible for generating a K63 linked poly-ubiquitin chain on RPB1, which is then trimmed to mono-ubiquitylation by the Rsp5-associated deubiquitinating enzyme (DUB) Ubp2.",3
+285,"While this two-ligase system has been successfully reconstituted for yeast and mammalian factors in vitro , the human E3 ligase VHL has also been shown to ubiquitylate RPB1 in vivo .",3
+286,"Consequently, p-T58-MYC is recognized by SCFFbw7 for K48-linked ubiquitination and degradation through the proteasome system.",3
+287,"As the substrate-binding subunit of the SCFSkp2 ubiquitin ligase complex, Skp2 was shown to bind to the MBII and bHLH-LZ domains of MYC and can mediate its ubiquitination and degradation during the G1/S transition of the cell cycle.",3
+288,"SCFFBXO32 targets MYC for proteasome degradation by promoting MYC ubiquitination at K326 via K48-linked ubiquitin chains independently of T58 or S62 phosphorylation. FBXO32 interacts with MYC at MBII, MBIV and a PEST (rich in proline, glutamic acid, serine and threonine) domain.",3
+289,"SPOP mediates ubiquitination and degradation of MYC by directly binding to MYC, while this binding is attenuated by the prostate cancer-associated mutations, SPOPF102C and SPOPF133V.",3
+290,"Recently, LINC01638 lncRNA has been shown to stabilize MYC by blocking the binding between SPOP and MYC and thus inhibiting SPOP- induced MYC ubiquitination and degradation in TNBCs, indicating a new RNA-mediated mechanism utilized by cancer cells to stabilize MYC protein.",3
+291,"However, subsequent studies showed that Pirh2 binds to MYC and mediates MYC polyubiquitination and proteasome degradation, suggesting that Pirh2 is a bona fide ubiquitin E3 ligase for MYC.",3
+292," TRUSS interacts with both MYC and N-MYC at their C-terminal bHLH-LZ domain, thus mediating DCX-dependent MYC ubiquitination and degradation.",3
+293,It has been shown that CHIP mediates polyubiquitination of MYC for degradation and suppresses MYC activity.,3
