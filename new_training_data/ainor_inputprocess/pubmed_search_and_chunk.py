@@ -1,7 +1,6 @@
 import argparse
 import csv
 import json
-import math
 import re
 import sys
 import time
@@ -18,14 +17,17 @@ DEFAULT_RETMAX = 100
 DEFAULT_MAX_TOKENS = 512
 DEFAULT_BATCH_SIZE = 100
 DEFAULT_MAX_SENTENCES = 100
+SCRIPT_DIR = Path(__file__).resolve().parent
+DEFAULT_OUTDIR = SCRIPT_DIR / "output"
 USER_AGENT = "ainor-inputprocess/1.0"
+DEFAULT_SENTENCE_PATTERN = r"\bphosphoryl\w*\b"
 
 
 def split_sentences(text):
     text = normalize_whitespace(text)
     if not text:
         return []
-    parts = re.split(r"(?<=[.!?])\s+(?=[A-Z0-9@\(])", text)
+    parts = re.split(r"(?<=[.!?])\s+", text)
     return [part.strip() for part in parts if part.strip()]
 
 
@@ -33,28 +35,25 @@ def normalize_whitespace(text):
     return re.sub(r"\s+", " ", text or "").strip()
 
 
-class BasicTokenizer:
-    def encode(self, text):
-        return re.findall(r"\w+|[^\w\s]", text, flags=re.UNICODE)
-
+def filter_relevant_sentences(sentences, pattern):
+    regex = re.compile(pattern, flags=re.IGNORECASE)
+    return [sentence for sentence in sentences if regex.search(sentence)]
 
 def build_tokenizer():
-    try:
-        from transformers import AutoTokenizer
+    from transformers import BertTokenizer, BertTokenizerFast
 
-        tokenizer = AutoTokenizer.from_pretrained(
-            "dmis-lab/biobert-base-cased-v1.1",
-            use_fast=True,
-        )
-        return tokenizer, "biobert"
+    model_name = "dmis-lab/biobert-base-cased-v1.1"
+
+    try:
+        tokenizer = BertTokenizerFast.from_pretrained(model_name)
+        return tokenizer, "biobert-fast"
     except Exception:
-        return BasicTokenizer(), "basic"
+        tokenizer = BertTokenizer.from_pretrained(model_name)
+        return tokenizer, "biobert-slow"
 
 
 def count_tokens(tokenizer, text):
     if hasattr(tokenizer, "encode"):
-        if tokenizer.__class__.__name__ == "BasicTokenizer":
-            return len(tokenizer.encode(text))
         return len(tokenizer.encode(text, add_special_tokens=False))
     raise TypeError("Tokenizer must provide an encode method.")
 
@@ -100,31 +99,13 @@ def split_long_sentence(sentence, tokenizer, max_tokens):
 
 def chunk_sentences(sentences, tokenizer, max_tokens):
     chunks = []
-    current = []
-
     for sentence in sentences:
         sentence = normalize_whitespace(sentence)
         if not sentence:
             continue
-
-        sentence_tokens = count_tokens(tokenizer, sentence)
-        if sentence_tokens > max_tokens:
-            oversized_parts = split_long_sentence(sentence, tokenizer, max_tokens)
-        else:
-            oversized_parts = [sentence]
-
-        for part in oversized_parts:
-            candidate = normalize_whitespace(" ".join(current + [part]))
-            if current and count_tokens(tokenizer, candidate) > max_tokens:
-                chunks.append(normalize_whitespace(" ".join(current)))
-                current = [part]
-            else:
-                current.append(part)
-
-    if current:
-        chunks.append(normalize_whitespace(" ".join(current)))
-
-    return [chunk for chunk in chunks if chunk]
+        if count_tokens(tokenizer, sentence) <= max_tokens:
+            chunks.append(sentence)
+    return chunks
 
 
 def eutils_get(endpoint, params):
@@ -241,8 +222,13 @@ def main():
         help="Maximum number of output chunks to keep.",
     )
     parser.add_argument(
+        "--sentence-pattern",
+        default=DEFAULT_SENTENCE_PATTERN,
+        help="Regex used to keep only relevant sentences.",
+    )
+    parser.add_argument(
         "--outdir",
-        default="output",
+        default=str(DEFAULT_OUTDIR),
         help="Output directory for raw and chunked CSV files.",
     )
     parser.add_argument("--email", default="", help="NCBI contact email.")
@@ -252,7 +238,14 @@ def main():
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
 
-    tokenizer, tokenizer_name = build_tokenizer()
+    try:
+        tokenizer, tokenizer_name = build_tokenizer()
+    except Exception as exc:
+        raise RuntimeError(
+            "Failed to load BioBERT tokenizer. Install `transformers` and ensure "
+            "`dmis-lab/biobert-base-cased-v1.1` is accessible. The script will try "
+            "both BertTokenizerFast and BertTokenizer."
+        ) from exc
     print(f"Tokenizer: {tokenizer_name}")
 
     pmids = esearch(args.query, args.retmax, email=args.email or None, api_key=args.api_key or None)
@@ -275,9 +268,9 @@ def main():
 
     chunk_rows = []
     for article in all_articles:
-        text = normalize_whitespace(f"{article['title']}. {article['abstract']}")
-        sentences = split_sentences(text)
-        chunks = chunk_sentences(sentences, tokenizer, args.max_tokens)
+        sentences = split_sentences(article["abstract"])
+        relevant_sentences = filter_relevant_sentences(sentences, args.sentence_pattern)
+        chunks = chunk_sentences(relevant_sentences, tokenizer, args.max_tokens)
         for idx, chunk in enumerate(chunks, start=1):
             if len(chunk_rows) >= args.max_sentences:
                 break
