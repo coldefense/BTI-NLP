@@ -1,0 +1,300 @@
+41866640_1|t|It should be noted that our use of the descriptor hyperphosphorylated tau is done to conform with current nomenclature; it should not be construed as indicating saturation of all the amino acids capable of being phosphorylated.
+41866640_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862476_1|t|Mechanistically, PIEZO1 activation promotes pulmonary fibrosis development via CAPN2-mediated STAT3 phosphorylation, which may regulate the secretion of the pro-fibrotic molecule interleukin-33.
+41862476_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862458_1|t|Here, we find that the ubiquitin E3 ligase RNF40 localizes to centrosomes and is phosphorylated by CDK1 on T529/T557 in the G2/M phases.
+41862458_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862458_2|t|This phosphorylation primes its binding to PLK1 and promotes timely PLK1 recruitment and centrosome maturation, establishing the CDK1-RNF40-PLK1 cascade as a mechanism controlling centrosome maturation.
+41862458_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862458_3|t|We also find that RNF40 is acetylated in interphase and undergoes an acetylation-to-phosphorylation transition in late G2 and M phases, which permits timely activation of the CDK1-RNF40-PLK1 cascade.
+41862458_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862458_4|t|Constitutive RNF40 acetylation or deficient RNF40 phosphorylation impairs PLK1 localization, microtubule nucleation, and bipolar spindle assembly, causing mitotic catastrophe.
+41862458_4|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862462_1|t|We conduct an integrated analysis of chromatin accessibility, DNA methylation, mRNA expression, protein abundance and phosphorylation across eight tissues in fifty rats of equally represented sexes following endurance exercise training to identify coordinated epigenomic and transcriptional changes and determine key transcription factors involved.
+41862462_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41852029_1|t|The formation of this membrane-actin linkage has been experimentally shown to require ezrin N-terminal (FERM) domain binding to PI(4,5)P2 phospholipid-enriched membrane sites and the phosphorylation of the ezrin C-terminal domain (CTD) at residue T567.
+41852029_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41852029_2|t|Collectively, membrane association and T567 phosphorylation are believed to promote separation of the FERM and CTD domains; however, the underlying molecular mechanism remains less clear.
+41852029_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41852029_3|t|We also show that the FERM-CTD reassociation after ezrin T567 phosphorylation is impeded due to reduced dissociation energy barrier.
+41852029_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41852165_1|t|Mitochondrial respiration was assessed using the Seahorse XFp analyser, mitochondrial DNA (mtDNA) copy number and oxidative phosphorylation (OXPHOS) complex protein expression were measured by qPCR and western blotting.
+41852165_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41861599_1|t|Multi-omics analysis revealed that Trem1 deletion suppressed oxidative phosphorylation (OXPHOS) and induced a metabolic shift in neutrophils toward glycolysis.
+41861599_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41864848_1|t|This mitotic arrest-dependent telomere deprotection promotes mitotic death, requires Aurora B kinase-dependent shelterin phosphorylation and the BTR complex, and is opposed by WRN.
+41864848_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41855862_1|t|Its canonical function is to phosphorylate IκB proteins, thereby promoting the nuclear translocation and transcriptional activation of NF-κB.
+41855862_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41855862_2|t|This functional versatility is precisely governed by stimulus strength/duration, subcellular compartmentalization, scaffold protein usage, and differential substrate phosphorylation thresholds, which enable the same core kinase machinery to robustly control seemingly contradictory signaling outputs.
+41855862_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41840068_1|t|Full-length NuMA is autoinhibited for its interactions with dynein and microtubules, whereas mitotically phosphorylated NuMA activates dynein in vitro and interphase cells.
+41840068_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41846286_1|t|In wood-feeding cockroaches, the downregulation of genes associated with oxidative phosphorylation and peroxisomes constrained the growth and development rates of their offspring, which aligns with the observed slow larval growth.
+41846286_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41850541_1|t|Mass spectrometry coupled with phosphosite prediction analysis identified four serine residues (S701, S712, S722, and S728) on ASAP2 as phosphorylation targets of putative phosphorylation sites mediated by TAOK3.
+41850541_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41850541_2|t|These phosphorylation events were further by co-immunoprecipitation and were essential for the pro-metastatic activity of the TAOK3-ASAP2 signaling axis.
+41850541_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41850541_3|t|Collectively, these findings reveal a previously unrecognized TAOK3-dependent phosphorylation mechanism that drives ccRCC progression, and identify the TAOK3-ASAP2 axis as a promising therapeutic target for metastatic ccRCC.
+41850541_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41864544_1|t|HADHA dysfunction disrupts energy balance by causing toxic metabolite buildup, impairing oxidative phosphorylation, and aberrant cardiolipin remodeling.
+41864544_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_1|t|Neurofibrillary tangles, composed of excessively phosphorylated tau, are a core neuropathological hallmark of Alzheimer's disease (AD).
+41856254_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_2|t|However, therapeutic strategies aimed at directly clearing neurofibrillary tangles have demonstrated limited clinical efficacy, shifting the research focus towards the fundamental underlying mechanism- the dysregulation of tau phosphorylation.
+41856254_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_3|t|Evidence indicates that tau physiological phosphorylation is indispensable for microtubule stability and normal neuronal function, while its aberrant hyperphosphorylation drives neurodegeneration.
+41856254_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_4|t|Consequently, restoring tau phosphorylation homeostasis, rather than merely eliminating the pathological protein, has emerged as a promising therapeutic paradigm.
+41856254_4|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_5|t|This review systematically delineates the physiological functions and pathological mechanisms of tau phosphorylation, highlighting its central role in AD pathogenesis.
+41856254_5|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41856254_6|t|We summarize recent advances in drug development targeting key kinases and phosphatases, and discuss the diagnostic value and application prospects of tau phosphorylation biomarkers.
+41856254_6|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41869306_1|t|To sustain inflammation and tissue damage, pathogenic immune and stromal cells undergo specific metabolic reprogramming that alters glycolysis, oxidative phosphorylation, and lipid metabolism.
+41869306_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862111_1|t|The biomaterial micropatterning-modulated elongated and aligned morphology promoted an anti-inflammatory transcriptome, reduced pro-inflammatory chemokine secretion, and induced the transcription coregulator yes-associated protein (YAP) phosphorylation, supporting the anti-immunogenic properties of endothelial cells.
+41862111_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862111_2|t|The ability of micropatterned endothelial cells to maintain their anti-immunogenic functions under pro-inflammatory conditions was demonstrated by the increased phosphorylation of YAP and decrease in pro-inflammatory IL-8 release.
+41862111_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41895230_1|t|Pseudokinases are enigmatic proteins that evolved such that they retained the evolutionarily conserved kinase-like fold but lost key residues required for substrate phosphorylation.
+41895230_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41895230_2|t|SIGNIFICANCE STATEMENT: Pseudokinases are understudied proteins that lack the catalytic ability to mediate phosphorylation, yet, they perform extraordinary and physiologically essential signaling functions.
+41895230_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41847111_1|t|This was accompanied by increased AMP-activated protein kinase activity and phosphorylation of YAP1, implying tapered activity of the YAP1 oncoprotein.
+41847111_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41847664_1|t|In vitro, 10h demonstrated potent anti-tumor activity and effectively inhibited niraparib-induced CHK1 phosphorylation in Granta-519.
+41847664_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41854818_1|t|This complex functionality is finely modulated by post-translational modifications, particularly phosphorylation.
+41854818_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41864233_1|t|Using mass spectrometry techniques, plasma p-tau217 was measured as a ratio to a non-phosphorylated peptide (%p-tau217), and eMTBR-tau243 was measured as a concentration.
+41864233_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41865688_1|t|YFSJ combined with gefitinib treatment inhibits EGFR and Erk1/2 phosphorylation, promoting YAP1 phosphorylation, inhibits AKT phosphorylation and downstream ANKRD1 expression, ultimately suppressing cell proliferation and promoting apoptosis.
+41865688_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41876639_1|t|We further discuss crosstalk between glycosylation, ubiquitination, and phosphorylation, metabolic regulation of UDP-GlcNAc flux, and pathogen- or tumor-driven glycosylation reprogramming, highlighting glycosylation enzymes as potential immunomodulatory targets.
+41876639_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41886288_1|t|We report an elemental sulfur/base/water system enabling the synthesis of 2-phosphorylbenzazoles via a Willgerodt-Kindler-type reaction of o-hydroxy/amino/mercaptoanilines with substituted phosphorylmethanes.
+41886288_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41882025_1|t|Post-translational modification analysis revealed combination-induced acetylation, methylation, and phosphorylation of key AML proteins, including NPM1.
+41882025_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41842946_1|t|Mechanistically, IKKα phosphorylates HHEX at S213 to stabilize HHEX in response to TNF-α by inhibiting the interaction of HHEX with the E3 ubiquitin ligase MID2 and subsequent K48-linked ubiquitination and protein degradation.
+41842946_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41868124_1|t|As prodrugs, these derivatives require intracellular enzymatic phosphorylation to form active metabolites that inhibit nucleic acid synthesis, and their efficacy is dependent on intracellular enzyme levels and activity.
+41868124_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41889763_1|t|The roles of H-phosphoryl compounds [HP-(O)-R'R″] in various transformations remain insufficiently elucidated, particularly concerning their contributions to facilitating the conversion of inert chemical bonds.
+41889763_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41889763_2|t|Notably, H-phosphoryl compounds, especially the commercially available, bench-stable, and inexpensive HP-(O)-Ph2 used in this study, were discovered for the first time to function as both a defluorinative surrogate and an H-reagent, displaying unconventional HDF reactivity with the assistance of water.
+41889763_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41887981_1|t|Loss of the mitochondrial NAD kinase, which phosphorylates NAD(H) to generate mitochondrial NADP(H), disrupts NADP(H)-dependent pathways that sustain oxidative metabolism and systemic energy balance.
+41887981_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41858737_1|t|While bulk tumor cells are often dependent on glycolysis, CSCs demonstrate metabolic plasticity can switch between glycolysis and OXPHOS (oxidative phosphorylation) depending on context.
+41858737_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41849049_1|t|Classical models cast CaMKII as a Ca2+/calmodulin-activated kinase that, once phosphorylated, persists autonomously to encode synaptic memory.
+41849049_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41868506_1|t|Rice senses salinity using receptor-like kinases and Ca2+-dependent signaling pathway but the initial stages of the response and down-stream phosphorylation cascades have not been characterized well.
+41868506_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863615_1|t|Concurrently, exercise improves metabolic adaptation and sustains antitumor effects via metabolic reprogramming, which involves enhancing mitochondrial oxidative phosphorylation and increasing lactate-mediated stemness.
+41863615_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41861913_1|t|While metabolic alterations and substrate utilization inflexibility have been well studied and are considered hallmarks of heart failure pathogenesis, the overwhelming majority of these investigations have focused on the health and function of the mitochondria in cardiac myocytes; for good reason given the mitochondria is the location of oxidative phosphorylation complexes that, although debated, can form respiratory super complexes to generate ATP in conjunction with the electron transport chain and TCA cycle.
+41861913_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41845971_1|t|However, in over 95% of ALS cases, TDP-43 mislocalises from the nucleus to the cytoplasm, where it enriches in cytoplasmic inclusions that are marked by the presence of misfolded, ubiquitinated, phosphorylated and fragmented protein species of TDP-43.
+41845971_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41868184_1|t|Furthermore, anthraquinones inhibit pyroptosis, apoptosis, tau phosphorylation, Aβ/α-synuclein aggregation, and acetylcholinesterase activity, while restoring metal homeostasis, activating estrogen receptors, modulating gut microbiota, increasing BDNF levels, and preserving blood-brain barrier permeability.
+41868184_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862620_1|t|METHOD: Relevant literature on immune responses and metabolic regulation in nerve injury wasanalyzed to explore how shifts between glycolysis, oxidative phosphorylation, and fatty acidoxidation govern the balance between inflammatory and reparative states.
+41862620_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41848587_1|t|High-throughput proteomic technologies, including mass spectrometry, quantitative labeling approaches, and spatial/single-cell analyses, enable the identification of phase-specific protein signatures and PTMs such as phosphorylation, glycosylation, ubiquitination, acetylation, and redox modifications.
+41848587_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41868147_1|t|This stress encompasses alterations in oxidative phosphorylation, mitochondrial dynamics, calcium handling, reactive oxygen species (ROS) production, and activation or disruption of mitochondrial quality control pathways such as mitophagy.
+41868147_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41873355_1|t|This review summarizes seven key PTMs' (phosphorylation, acetylation, glycosylation, methylation, ubiquitination, SUMOylation, lactylation) dual regulation on NK cell therapy: physiological PTMs enhance NK cytotoxicity, targeting, and persistence; aberrant PTMs block NK activation, induce exhaustion, and promote GBM immune escape.
+41873355_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41846138_1|t|The established molecular initiating event of MC-LR toxicity is the inhibition of serine/threonine protein phosphatases (PP1 and PP2), leading to widespread phosphorylation imbalance and cellular stress.
+41846138_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41846138_2|t|This review critically analyzes recent mechanistic findings and cross-species evidence to contextualize autophagy dysregulation within a broader framework of phosphorylation imbalance and organelle stress in MC-LR toxicity.
+41846138_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41854733_1|t|Somatostatin receptors (SSTR1-5) are widely expressed in cognition-related brain regions and participate in amyloid-β metabolism, tau phosphorylation, neuroinflammation, and synaptic plasticity.
+41854733_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41844234_1|t|MYC is regulated at multiple levels, and its stability and activity are modulated by protein phosphorylation.
+41844234_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41869562_1|t|Furthermore, phosphorylated STAT3 levels positively correlated with the M2 marker ArgI, and both were further increased in the absence of Ezh2.
+41869562_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41849441_1|t|To quantitatively evaluate differences in antithrombogenicity, poly(butyl methacrylate) (PBMA), poly(2-methoxyethyl acrylate) (PMEA), and poly(2-methacryloyloxyethyl phosphorylcholine-co-n-butyl methacrylate) (P(MPC-co-BMA)) were spin-coated on gold QCM-D (Quartz Crystal Microbalance with Dissipation) sensors, and the adsorption behaviors of fibrinogen (Fg) on these polymer surfaces was analyzed.
+41849441_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41844803_1|t|Phosphoproteomics revealed reduced phosphorylation of MRCKA and SLK substrates, suggesting crosstalk between D/L-2HG modification and kinase activity.
+41844803_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41855256_1|t|CHKA phosphorylates promyelocytic leukemia (PML) at tyrosine 339, promoting its cytoplasmic localization.
+41855256_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41887949_1|t|This strategy enables context-dependent reprogramming of pathological phosphorylation with improved mechanistic and pathway specificity.
+41887949_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41852131_1|t|COS is of great significance in the prevention and treatment of AD; the main mechanisms of action include inhibiting acetylcholinesterase and beta-secretase activity, preventing abnormal phosphorylation of tau protein, chelating copper ions, protecting neuronal cells, and exhibiting antioxidant effects.
+41852131_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41867854_1|t|In skeletal muscle, where DAS events were the most abundant, DAS genes were enriched for muscle structure- and RNA splicing-related processes, and splicing machinery components were regulated at the protein phosphorylation, RNA, and AS levels.
+41867854_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41869290_1|t|The results of the gene set enrichment analysis (GSEA) indicated enrichment of oxidative phosphorylation pathway in NRF2-deficient cells.
+41869290_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41857027_1|t|Unlike other CDKs, CDK16 is regulated by an unclear mechanism involving phosphorylated cyclin Y (CCNY) in complex with 14-3-3 proteins rather than CCNY alone.
+41857027_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41851502_1|t|Mechanistically, OXSR1 phosphorylates the RhoB GTPase at threonine 37 upon intestinal injury, thereby disrupting its interaction with ARHGAP17 and increasing the levels of GTP-bound RhoB.
+41851502_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41880487_1|t|How microtubules simultaneously up- and down-regulate Aurora B phosphorylation remains unclear.
+41880487_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41880487_2|t|Devising a new cryo-electron microscopy workflow, we determined microtubule-bound structures of the CPC and key Aurora B substrates that resolve their phosphorylation sites, finding that microtubules can promote or restrict Aurora B-mediated phosphorylation depending upon binding geometry.
+41880487_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41880487_3|t|The kinetochore Ndc80 complex oligomerizes on microtubules through multivalent interactions including its kinase recognition sites, sterically restricting kinase access to counteract phosphorylation-induced detachment.
+41880487_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41880487_4|t|Conversely, Aurora B recognition sites of the microtubule-depolymerase mitotic centromere-associated kinesin (MCAK) remain accessible on microtubules, explaining how microtubule-bound CPC can promote MCAK phosphorylation and inactivation.
+41880487_4|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41880487_5|t|We propose that microtubule-guided substrate remodeling can serve as a general mechanism for controlling Aurora B-mediated phosphorylation during mitosis, which can coordinate diverse processes underlying faithful chromosome segregation.
+41880487_5|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41862769_1|t|Bazedoxifene (a selective estrogen receptor modulator) treatment of male Mdga1Y636C/E751Q KI mice rescues the changes in the expression and phosphorylation of a subset of GABAergic synaptic proteins, as well as behavioral performance and GABAergic synaptic strength.
+41862769_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41844585_1|t|Our results reveal that EA significantly reduces both amyloid-beta (Aβ) and phosphorylated tau (p-tau) levels and neuroinflammatory biomarkers, including molecular signatures for activated microglia and astrocytes in the brain.
+41844585_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41869559_1|t|Mechanistically, Panx1 deficiency leads to reduced non-phosphorylated β-catenin levels and its downstream targets, indicating impaired Wnt/β-catenin signaling.
+41869559_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41844616_1|t|Phosphorylation, including by the MAPK itself, antagonises Sms1 membrane translocation, establishing a negative feedback that underlies polarity patch turnover and prevents untimely mating attempts.
+41844616_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863805_1|t|Previous studies have identified key steps during necroptosis, which are believed to be coupled: MLKL phosphorylation by RIPK3, release of N-terminal autoinhibition, and MLKL oligomerization.
+41863805_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863805_2|t|Here, we employ five different pharmacological, biological, and genetic methods to demonstrate that inhibiting the MLKL N terminus prevents both phosphorylation and oligomerization.
+41863805_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863805_3|t|Conversely, loss of interaction between the N-terminal four-helical bundle and brace domains demonstrates basal MLKL phosphorylation, even in the absence of necroptotic stimuli.
+41863805_3|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863805_4|t|Moreover, we show that MLKL phosphorylation is not necessary for maintaining MLKL oligomer stability.
+41863805_4|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41863805_5|t|We propose that MLKL is released from autoinhibition prior to phosphorylation, explaining why phosphomimetic MLKL lacks cytotoxic activity.
+41863805_5|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41843681_1|t|The JNK1 and JNK2 pre-mRNAs expressed by hepatocytes exhibit mutually exclusive inclusion of exons 7a or 7b that encode a segment of the substrate binding site that is required for selective protein phosphorylation.
+41843681_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41843681_2|t|This function of JNK27b is mediated by coordinated mechanisms that independently regulate circadian gene expression and phosphorylation of Retinoid X Receptor α (RXRα) on Ser265.
+41843681_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41846982_1|t|Phosphomimetic mutations of key serines disrupt this stabilization and reduce binding affinity, identifying phosphorylation as a regulatory switch for SERBP1 activity.
+41846982_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41871415_1|t|In this review, we examine the evidence for tau-related neurodegenerative processes in epilepsy beginning with how changes in biochemical and structural properties of the tau protein can lead to abnormal phosphorylation and pathological aggregation.
+41871415_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41865455_1|t|Furthermore, USP18 silencing enhances the phosphorylation of key kinases and the upstream regulator TAK1 within the NF-κB signaling pathway in macrophages.
+41865455_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41865455_2|t|USP18 inhibits TAK1 phosphorylation by binding to and deubiquitinating TAK1, thereby suppressing NF-κB pathway activation.
+41865455_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41858284_1|t|RESULTS: Both phosphorylated NFκB and STAT3 were obviously elevated in keloid tissues.
+41858284_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41858284_2|t|Mechanistically, DDR1 interacted with ARF6, which promoted the transport of DDR1 to plasma membrane and amplified collagen I-induced DDR1 signaling, then facilitated DDR1 binding to STAT3, leading to STAT3 phosphorylation.
+41858284_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41849779_1|t|Functionally, CSH-4044 suppressed PIM3-driven BAD phosphorylation in pancreatic cancer cells and reduced DYRK1A-mediated Tau phosphorylation in neuronal cells.
+41849779_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41874349_1|t|Conversely, male AMs showed little change in oxidative phosphorylation.
+41874349_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41876450_1|t|Mechanistically, AKT1 phosphorylates PRMT7 at threonine 73 (T73) and promotes its activity to stabilize GLUD1 by increasing its methylation and reducing ubiquitination.
+41876450_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41858765_1|t|In addition, the levels of phosphorylated (p)-p65 and p-IκBα, which are NF-κB pathway-associated proteins, were markedly decreased after 24 h of SPD treatment.
+41858765_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41860659_1|t|Through integrated multiomics analysis, we identified 38 ARHL core-associated candidate genes that are predominantly enriched in pathways such as NF-κB signaling, antigen presentation, and oxidative phosphorylation.
+41860659_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41860465_1|t|Further, we found that AKT can phosphorylate threonine 277 adjacent to the NLS in FDXR and subsequently enhances its nuclear translocation.
+41860465_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41860465_2|t|Together, our data provide evidence that the mitochondrial FDXR can be translocated to the nucleus, which is regulated by AKT-mediated phosphorylation, especially in response to cellular stress.
+41860465_2|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+
+41855861_1|t|Mechanistically, curcumin inhibited the NF-κB signaling cascade, specifically through attenuated phosphorylation of p65 and IκBα, which restrained osteoclastogenesis.
+41855861_1|a|OBJECTIVE: not even. METHODS: not even. RESULTS: not even. CONCLUSIONS: not even.
+

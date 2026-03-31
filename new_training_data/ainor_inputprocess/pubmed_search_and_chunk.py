@@ -198,6 +198,19 @@ def write_chunks_csv(path, rows):
         writer.writerows(rows)
 
 
+def write_pubtator_txt(path, rows):
+    placeholder_abstract = (
+        "OBJECTIVE: not even. METHODS: not even. RESULTS: not even. "
+        "CONCLUSIONS: not even."
+    )
+    with path.open("w", encoding="utf-8") as handle:
+        for row in rows:
+            doc_id = f"{row['pmid']}_{row['chunk_id']}"
+            text = normalize_whitespace(row["text"])
+            handle.write(f"{doc_id}|t|{text}\n")
+            handle.write(f"{doc_id}|a|{placeholder_abstract}\n\n")
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Search PubMed and split abstracts into <=512-token chunks."
@@ -288,9 +301,12 @@ def main():
 
     chunk_path = outdir / "pubmed_phosphoryl_chunks.csv"
     write_chunks_csv(chunk_path, chunk_rows)
+    pubtator_path = outdir / "pubmed_phosphoryl_pubtator.txt"
+    write_pubtator_txt(pubtator_path, chunk_rows)
 
     print(f"Saved articles to: {raw_path}")
     print(f"Saved chunks to: {chunk_path}")
+    print(f"Saved PubTator input to: {pubtator_path}")
     print(f"Total chunk rows: {len(chunk_rows)}")
 
 
